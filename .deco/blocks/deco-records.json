@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://jbtest-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "079984d71703d5b832f7eea1f06c7a098a0031600f29f6f20d2f912d1b63dc56231e4ddf93d7b818f257013238a0b7ceead8bda289c94fd1fdd7de6bc9d948133472ee9fb7a0a4b19031a5b60cb5ec26f1037dd17c2ba9787a31451f9cfe6a192931d3645994172671342dabecb9c539b7a36a5995bcec4a2aba915f5e736ed7d8b49e6eceb1e75ade248bf3367816e5ce4575ab816c4b3b041f2fdc84e4df877acb5311bfa59b761300daa7e29bcd8a92c0f07e251136d3feeb42f7e87d045e2b5b19a6dffb43cb4c941456e1a39977bc5be43e89e14a3d3b7e7fce39d02878"
+  }
+}
